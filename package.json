@@ -13,7 +13,7 @@
   "sideEffects": false,
   "license": "MIT",
   "engines": {
-    "node": "14.x"
+    "node": "16.x"
   },
   "dependencies": {
     "@mailchimp/mailchimp_marketing": "3.0.70",
@@ -51,7 +51,7 @@
     "@next/bundle-analyzer": "11.0.1",
     "@types/classnames": "2.3.1",
     "@types/cookie": "0.4.1",
-    "@types/node": "16.3.1",
+    "@types/node": "16.11.6",
     "@types/react": "17.0.30",
     "@types/shopify-buy": "2.10.8",
     "postcss": "8.3.7",
