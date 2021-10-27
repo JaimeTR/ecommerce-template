@@ -33,7 +33,7 @@
     "jsondiffpatch": "0.4.1",
     "keen-slider": "5.5.1",
     "marqy": "0.0.8",
-    "next": "11.0.1",
+    "next": "12.0.1",
     "next-themes": "0.0.15",
     "qs": "6.10.1",
     "raw-body": "2.4.1",
@@ -48,7 +48,7 @@
     "use-intersection": "0.2.1"
   },
   "devDependencies": {
-    "@next/bundle-analyzer": "11.0.1",
+    "@next/bundle-analyzer": "12.0.1",
     "@types/classnames": "2.3.1",
     "@types/cookie": "0.4.1",
     "@types/node": "16.3.1",
