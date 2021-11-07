@@ -44,7 +44,7 @@
     "shopify-buy": "2.13.0",
     "sitemap": "7.0.0",
     "swr": "1.0.1",
-    "tailwindcss": "2.2.10",
+    "tailwindcss": "2.2.19",
     "use-intersection": "0.2.1"
   },
   "devDependencies": {
