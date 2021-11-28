@@ -54,7 +54,7 @@
     "@types/node": "16.11.6",
     "@types/react": "17.0.36",
     "@types/shopify-buy": "2.10.8",
-    "postcss": "8.4.1",
+    "postcss": "8.4.4",
     "postcss-flexbugs-fixes": "5.0.2",
     "postcss-import": "14.0.2",
     "postcss-nested": "5.0.6",
