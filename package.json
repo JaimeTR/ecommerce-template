@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@mailchimp/mailchimp_marketing": "3.0.75",
-    "@reach/rect": "0.16.0",
+    "@reach/rect": "0.17.0",
     "@sanity/block-content-to-react": "3.0.0",
     "@sanity/client": "2.23.2",
     "@sanity/image-url": "1.0.1",
