@@ -51,7 +51,7 @@
     "@next/bundle-analyzer": "12.1.6",
     "@types/classnames": "2.3.1",
     "@types/cookie": "0.4.1",
-    "@types/node": "16.11.27",
+    "@types/node": "16.11.45",
     "@types/react": "17.0.44",
     "@types/shopify-buy": "2.10.8",
     "postcss": "8.4.12",
